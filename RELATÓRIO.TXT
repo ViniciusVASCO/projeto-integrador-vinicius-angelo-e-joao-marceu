@@ -1,11 +1,8 @@
-Semana 1: Projeto base javafx feito,
- iniciado as primeiras pastas e arquivos 
- java. Começando os slides, e 
- produzindo o banco de dados para a 
- implementação.
+1° Semana: Projeto base javafx feito, iniciado as primeiras pastas e arquivos java.
+Começamos os slides, discutimos sobre o projeto e pensamos em como implementa-lo.Projeto base javafx feito,
 
-
-Semana 2:
+2° Semana: Começamos o código base, tentando fazer commit (sem sucesso),
+discutimos andamento do projeto e continuação dos slides
 
 
 Semana 3:
