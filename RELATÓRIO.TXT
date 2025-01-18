@@ -1,0 +1,11 @@
+Semana 1: Projeto base javafx feito,
+ iniciado as primeiras pastas e arquivos 
+ java. Começando os slides, e 
+ produzindo o banco de dados para a 
+ implementação.
+
+
+Semana 2:
+
+
+Semana 3:
