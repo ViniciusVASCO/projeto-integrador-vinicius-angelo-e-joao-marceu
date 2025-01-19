@@ -1,6 +1,4 @@
 package vinicius.joao.controller;
-
-import vinicius.joao.App;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.control.Tab;
@@ -47,7 +45,7 @@ public class TelaBrasileiraoController {
 
         tabCadastroJogos.setOnSelectionChanged(event -> {
             if (tabCadastroJogos.isSelected() && tabCadastroJogos.getContent() == null) {
-                carregarConteudoTab(tabCadastroJogos, CadastroJogos.fxml");
+                carregarConteudoTab(tabCadastroJogos, CadastroJogos.fxml);
             }
         });
     }
