@@ -23,31 +23,31 @@ public class TelaBrasileiraoController {
     public void initialize() {
         tabTabela.setOnSelectionChanged(event -> {
             if (tabTabela.isSelected() && tabTabela.getContent() == null) {
-                carregarConteudoTab(tabTabela, "/views/Tabela.fxml");
+                carregarConteudoTab(tabTabela, "Tabela.fxml");
             }
         });
 
         tabTimesCadastrados.setOnSelectionChanged(event -> {
             if (tabTimesCadastrados.isSelected() && tabTimesCadastrados.getContent() == null) {
-                carregarConteudoTab(tabTimesCadastrados, "/views/TimesCadastrados.fxml");
+                carregarConteudoTab(tabTimesCadastrados, "TimesCadastrados.fxml");
             }
         });
 
         tabArtilheiros.setOnSelectionChanged(event -> {
             if (tabArtilheiros.isSelected() && tabArtilheiros.getContent() == null) {
-                carregarConteudoTab(tabArtilheiros, "/views/Artilheiros.fxml");
+                carregarConteudoTab(tabArtilheiros, "Artilheiros.fxml");
             }
         });
 
         tabCadastroTimes.setOnSelectionChanged(event -> {
             if (tabCadastroTimes.isSelected() && tabCadastroTimes.getContent() == null) {
-                carregarConteudoTab(tabCadastroTimes, "/views/CadastroTimes.fxml");
+                carregarConteudoTab(tabCadastroTimes, "CadastroTimes.fxml");
             }
         });
 
         tabCadastroJogos.setOnSelectionChanged(event -> {
             if (tabCadastroJogos.isSelected() && tabCadastroJogos.getContent() == null) {
-                carregarConteudoTab(tabCadastroJogos, "/views/CadastroJogos.fxml");
+                carregarConteudoTab(tabCadastroJogos, CadastroJogos.fxml");
             }
         });
     }

@@ -29,7 +29,7 @@
                <children>
                   <ImageView fitHeight="70.0" fitWidth="71.0" layoutX="20.0" layoutY="4.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../../../projeto-integrador-vinicius-angelo-e-joao-marceu-2/brasileirao/src/main/resources/184443_imgbank_.png" />
+                        <Image url="@../184443_imgbank_.png" />
                      </image>
                   </ImageView>
                   <Label layoutX="167.0" layoutY="23.0" text="Brasileirão da galera">
@@ -53,7 +53,7 @@
                                     <TableColumn prefWidth="75.0" text="JOGOS" />
                                     <TableColumn prefWidth="75.0" text="VITÓRIAS" />
                                     <TableColumn prefWidth="75.0" text="EMPATES" />
-                                    <TableColumn prefWidth="75.0" text="DERROTAS" />
+                                    <TableColumn prefWidth="99.0" text="DERROTAS" />
                                 </columns>
                               </TableView>
                            </children>
